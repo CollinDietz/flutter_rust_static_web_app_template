@@ -1,4 +1,4 @@
-# flutter_rest_static_web_app_template
+# flutter_rust_static_web_app_template
 
 A new Flutter project.
 
